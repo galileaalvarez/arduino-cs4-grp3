@@ -1,10 +1,15 @@
 void setup()
 {
-  // Stephanie first commit
+  // Stephanie add code below
 }
  
 void loop()
 {
-  // Tristan first commit
-  // Lyna first commit
+  // Tristan add code below
+
+
+  // Lyna add code below
+
+
+  // Jesse add code below
 }
