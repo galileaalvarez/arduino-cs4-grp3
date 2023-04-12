@@ -18,13 +18,13 @@ Notes chart:
  
 void loop()
 {
-  // Tristan add code below
-
-
   // Lyna add code below
 
 
-  // Jesse add code below
-
   // Galilea add code below
+
+
+  // Stephanie add code below
+
+  // Jesse add code below
 }
