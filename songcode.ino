@@ -11,6 +11,19 @@ Notes chart:
 7 2093  2217  2349  2489  2637  2794  2960  3136  3322  3520  3729  3951
 8 4186  4435  4699  4978  5274  5588  5920  6272  6645  7040  7459  7902
 */
+int C4 = 262
+int C#4 = 277
+int D4 = 294
+int Eb4 = 311
+int E4 = 330
+int F4 = 349
+int F#4 = 370
+int G4 = 392
+int G#4 = 415
+int A4 = 440
+int Bb4 = 466
+int B4 = 494
+
 void setup()
 {
   // Stephanie add code below 
