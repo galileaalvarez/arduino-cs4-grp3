@@ -21,13 +21,15 @@ int A4 = 440;
 int Bb4 = 466;
 int B4 = 494;
 
-int tempo = 100
-int dot quarter = (tempo*15)
-int quarter = (tempo*10)
-int sixteenth = (tempo*2.5)
-int dothalf = (tempo*30)
-int half = (tempo*20)
-int eighth = (tempo*5)
+int tempo = 100;
+int dot quarter = (tempo*15);
+int quarter = (tempo*10);
+int sixteenth = (tempo*2.5);
+int dothalf = (tempo*30);
+int half = (tempo*20);
+int eighth = (tempo*5);
+void setup()
+
 void setup()
 {
   // Stephanie add code below 
@@ -39,14 +41,13 @@ void loop()
 {
   // Lyna add code below
 
+  // Tristan add code below
 
   // Galilea add code below
 
-
   // Stephanie add code below
-tone(output, E4);
-  delay(half)
-
 
   // Jesse add code below
+
+
 }
