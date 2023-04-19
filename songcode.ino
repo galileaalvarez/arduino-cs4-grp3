@@ -1,3 +1,6 @@
+void setup()
+{
+  // Stephanie add code below 
 /*
 Notes chart:
   C     C#     D     Eb   E     F     F#    G     G#    A     Bb    B
@@ -41,10 +44,60 @@ void setup()
 void loop()
 {
   // Lyna add code below
-
-  // Tristan add code below
+  // Bb4
+  tone(output, Bb);    // tone(outputPin,frequency)
+      delay(sixteenth);  //  delay(milliseconds) 
+    noTone(output);
+      delay(100); 
+  // C4
+      tone(output, C4);
+      delay(quarter);
+      // C4       
+       tone(output, C4);
+      delay(quarter);
+      // C4
+       tone(output, C4);
+      delay(quarter);
+      // C4
+       tone(output, C4);
+      delay(quarter);
+      // C4
+       tone(output, C4);
+      delay(quarter);
+      // C4
+    tone(output, C4);    
+      delay(eighth); 
+      // A4
+    tone(output, A4);    
+      delay(quarter); 
+      // A4
+    tone(output, A4);    
+      delay(quarter); 
+      // A4
+    tone(output, A4);    
+      delay(eighth);  
+            // C4
+       tone(output, C4);
+      delay(quarter);
+      // C4
+       tone(output, C4);
+      delay(quarter);
+      // C4
+    tone(output, C4);    
+      delay(eighth);     
+      // C4
+    tone(output, C4);    
+      delay(eighth);   
+      // D4
+  tone(output, D4);
+      delay(eight);
+    noTone(output);
+      delay(100); 
+      
+       }
 
   // Galilea add code below
+
 
   // Stephanie add code below
 
