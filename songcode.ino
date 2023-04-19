@@ -22,12 +22,13 @@ int Bb4 = 466;
 int B4 = 494;
 
 int tempo = 100;
-int dot quarter = (tempo*15);
+int dotquarter = (tempo*15);
 int quarter = (tempo*10);
 int sixteenth = (tempo*2.5);
 int dothalf = (tempo*30);
 int half = (tempo*20);
 int eighth = (tempo*5);
+int whole = (tempo*40);
 void setup()
 
 void setup()
