@@ -93,8 +93,10 @@ void loop()
       delay(eight);
     noTone(output);
       delay(100); 
-      
-       }
+
+
+  // Tristan add code below
+
 
   // Galilea add code below
 
