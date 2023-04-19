@@ -31,7 +31,57 @@ void setup()
 void loop()
 {
   // Lyna add code below
-
+  // Bb4
+  tone(output, Bb);    // tone(outputPin,frequency)
+      delay(sixteenth);  //  delay(milliseconds) 
+    noTone(output);
+      delay(100); 
+  // C4
+      tone(output, C4);
+      delay(quarter);
+      // C4       
+       tone(output, C4);
+      delay(quarter);
+      // C4
+       tone(output, C4);
+      delay(quarter);
+      // C4
+       tone(output, C4);
+      delay(quarter);
+      // C4
+       tone(output, C4);
+      delay(quarter);
+      // C4
+    tone(output, C4);    
+      delay(eighth); 
+      // A4
+    tone(output, A4);    
+      delay(quarter); 
+      // A4
+    tone(output, A4);    
+      delay(quarter); 
+      // A4
+    tone(output, A4);    
+      delay(eighth);  
+            // C4
+       tone(output, C4);
+      delay(quarter);
+      // C4
+       tone(output, C4);
+      delay(quarter);
+      // C4
+    tone(output, C4);    
+      delay(eighth);     
+      // C4
+    tone(output, C4);    
+      delay(eighth);   
+      // D4
+  tone(output, D4);
+      delay(eight);
+    noTone(output);
+      delay(100); 
+      
+       }
 
   // Galilea add code below
 
