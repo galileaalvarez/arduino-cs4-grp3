@@ -296,6 +296,86 @@ void loop()
     delay(quarter); 
     tone(output, E4);    
     delay(quarter); 
-
+    // D4 new push needed
+    tone(output, D4);
+    delay(quarter);
+    // C4 
+    tone(output, C4);
+    delay(quarter);
+    // A4 
+    tone(output, A4);
+    delay(half)    
+    // A4 
+    tone(output, A4);
+     delay(quarter);
+    tone(output, A4);
+     delay(quarter); 
+    // C4
+    tone(output, C4);   
+      delay(quarter);       
+    // C4
+    tone(output, C4);    
+      delay(eighth);  
+    // D4
+    tone(output, D4);    
+      delay(eighth);  
+    // C4
+     tone(output, C4);    
+     delay(half);
+     notone(output);
+     delay(100);  
+    // A4
+    tone(output, A4);    
+      delay(quarter);
+      tone(output, A4);    
+      delay(quarter); 
+    // C4 
+    tone(output, C4);  
+      delay(quarter); 
+    // E4
+    tone(output, E4);    
+      delay(quarter); 
+    // D4
+    tone(output, D4);    
+      delay(half); 
+      noTone(output);
+      delay(100);
+    // A4
+    tone(output, A4);    
+      delay(quarter);
+      tone(output, A4);    
+      delay(quarter);
+    // C4
+    tone(output, C4);   
+      delay(quarter);       
+    // C4
+    tone(output, C4);    
+      delay(eighth);  
+    // D4
+    tone(output, D4);    
+      delay(eighth);  
+    // C4
+    tone(output, C4);    
+      delay(whole);    
+    // F4
+    tone(output, F4);    
+      delay(quarter); 
+    // G4
+    tone(output, G4);
+      delay(quarter);
+    // A4
+    tone(output, A4);
+    delay(quarter);
+    // E4
+     tone(output, E4);    
+    delay(quarter); 
+    tone(output, E4);    
+    delay(quarter); 
+    // D4
+    tone(output, D4);
+    delay(quarter);
+    // C4 
+    tone(output, C4);
+    delay(quarter);
 
 }
