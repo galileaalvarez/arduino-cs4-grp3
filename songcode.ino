@@ -1,3 +1,6 @@
+void setup()
+{
+  // Stephanie add code below 
 /*
 Notes chart:
   C     C#     D     Eb   E     F     F#    G     G#    A     Bb    B
@@ -11,21 +14,6 @@ Notes chart:
 7 2093  2217  2349  2489  2637  2794  2960  3136  3322  3520  3729  3951
 8 4186  4435  4699  4978  5274  5588  5920  6272  6645  7040  7459  7902
 */
-int C4 = 262;
-int D4 = 294;
-int Eb4 = 311;
-int E4 = 330;
-int F4 = 349;
-int G4 = 392;
-int A4 = 440;
-int Bb4 = 466;
-int B4 = 494;
-
-void setup()
-{
-  // Stephanie add code below 
-
-
 }
  
 void loop()
@@ -89,4 +77,6 @@ void loop()
   // Stephanie add code below
 
   // Jesse add code below
+
+
 }
