@@ -377,5 +377,110 @@ void loop()
     // C4 
     tone(output, C4);
     delay(quarter);
+  // F4
+   tone(output, F4);
+   delay(quarter);
+  // E4 
+   tone(output, F4);
+   delay(quarter);
+  // F4
+   tone(output, F4);
+   delay(half);
+   tone(output, F4);
+   delay(half);
+   tone(output, F4);
+   delay(half);
+  // F4
+   tone(output, F4);
+   delay(quarter);
+  // G4 
+   tone(output, G4);
+   delay(quarter);
+  // E4
+   tone(output, E4);
+   delay(qourter half);
+   tone(output, E4);
+   delay(quarter half);   
+   tone(output, E4);
+   delay(quarter half);
+  // F4
+   tone(output, F4);
+   delay(quarter);
+  // E4 
+   tone(output, E4);
+   delay(quarter);
+  // F4
+   tone(output, F4);
+   delay(half);   
+   tone(output, F4);
+   delay(half);
+   tone(output, F4);
+   delay(half);
+  // F4 
+   tone(output, F4);
+   delay(quarter);
+  // G4
+   tone(output, G4);
+   delay(quarter);
+  // E4
+   tone(output, E4);
+   delay(quarter half);
+   tone(output, E4);
+   delay(quarter half);   
+   tone(output, E4);
+   delay(quarter half);
+  // F4
+   tone(output, F4);
+   delay(quarter);
+  // E4 
+   tone(output, E4);
+   delay(quarter);
+  // F4
+   tone(output, F4);
+   delay(half);   
+   tone(output, F4);
+   delay(half);
+   tone(output, F4);
+   delay(half);
+  // F4 
+   tone(output, F4);
+   delay(quarter);
+  // G4
+   tone(output, G4);
+   delay(quarter);
+  // E4
+   tone(output, E4);
+   delay(quarter half);
+   tone(output, E4);
+   delay(quarter half);   
+   tone(output, E4);
+   delay(quarter half);
+  // F4
+   tone(output, F4);
+   delay(quarter);
+  // E4 
+   tone(output, E4);
+   delay(quarter);
+  // F4
+   tone(output, F4);
+   delay(half);   
+   tone(output, F4);
+   delay(half);
+   tone(output, F4);
+   delay(half);
+  // F4 
+   tone(output, F4);
+   delay(quarter);
+  // G4
+   tone(output, G4);
+   delay(quarter);
+  // E4 
+   tone(output, E4);
+   delay(quarter half);
+   tone(output, E4);
+   delay(quarter half);
+  //E4
+   tone(output, E4);
+   delay(quarter);
 
 }
