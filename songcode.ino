@@ -377,6 +377,7 @@ void loop()
     // C4 
     tone(output, C4);
     delay(quarter);
+  // last push
   // F4
    tone(output, F4);
    delay(quarter);
