@@ -1,5 +1,4 @@
-void setup()
-{
+
   // Stephanie add code below 
 /*
 Notes chart:
@@ -32,16 +31,9 @@ int dothalf = (tempo*30);
 int half = (tempo*20);
 int eighth = (tempo*5);
 int whole = (tempo*40);
-void setup()
-void setup()
-{
-  // Stephanie add code below 
 
-
-}
  
-void loop()
-{
+
   // Lyna add code below
 void setup() 
 { 
@@ -655,7 +647,7 @@ tone(output,G4);
 delay(eighth);
 noTone(output);
   // Jesse add code below
-  tone(output, A4);
+    tone(output, A4);
      delay(quarter);
     tone(output, A4);
      delay(quarter);   
