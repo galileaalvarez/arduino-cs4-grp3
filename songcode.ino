@@ -308,7 +308,66 @@ for (int i = 0; i < 3; i++){
     // C4
     tone(output, C4);    
       delay(dotquarter); 
-
+    // D4
+    tone(output, D4);    
+      delay(eighth); 
+    // A4
+    tone(output, A4);    
+      delay(eighth); 
+    // G4
+    tone(output, G4);    
+      delay(quarter); 
+    // F4
+    tone(output, F4);    
+      delay(quarter);
+    // E4
+    tone(output, E4);    
+      delay(quarter);
+    // A4
+    tone(output, A4);    
+      delay(quarter); 
+    // A4
+    tone(output, A4);    
+      delay(quarter); 
+    // C4
+    tone(output, C4);    
+      delay(quarter); 
+    // G4
+    tone(output, G4);    
+      delay(quarter); 
+    // F4
+    tone(output, F4);    
+      delay(quarter); 
+    // E4
+    tone(output, E4);    
+      delay(quarter); 
+    // C4
+    tone(output, C4);    
+      delay(quarter);       
+      // C4
+    tone(output, C4);    
+      delay(half);
+    // A4
+    tone(output, A4);    
+      delay(eighth); 
+    // G4
+    tone(output, G4);    
+      delay(quarter); 
+    // F4
+    tone(output, F4);    
+      delay(quarter); 
+    // E4
+    tone(output, E4);    
+      delay(quarter); 
+    // D4
+    tone(output, D4);    
+      delay(quarter); 
+    // A4
+    tone(output, A4);    
+      delay(quarter); 
+    // A4
+    tone(output, A4);    
+      delay(quarter);
   // Galilea add code below
 
 
