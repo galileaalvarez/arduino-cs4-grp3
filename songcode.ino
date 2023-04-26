@@ -228,7 +228,86 @@ for (int i = 0; i < 3; i++){
        }
 
   // Tristan add code below
-
+ // C4
+    tone(output, C4);    // tone(outputPin,frequency)
+      delay(quarter);  //  delay(milliseconds) 
+    noTone(output);
+      delay(100);
+    // C4
+    tone(output, C4);   
+      delay(quarter);   
+    // C4
+    tone(output, C4);    
+      delay(quarter);  
+    // C4
+    tone(output, C4);    
+      delay(quarter);  
+    // C4
+    tone(output, C4);    
+      delay(quarter);   
+    // C4
+    tone(output, C4);    
+      delay(dotquarter); 
+    // A4 
+    tone(output, A4);  
+      delay(quarter); 
+    // A4
+    tone(output, A4);    
+      delay(eighth); 
+    // C4
+    tone(output, C4);    
+      delay(quarter); 
+    // C4
+    tone(output, C4);    
+      delay(quarter); 
+          // C4
+    tone(output, C4);   
+      delay(eighth);   
+    // D4
+    tone(output, D4);    
+      delay(eighth);  
+    // C4
+    tone(output, C4);    
+      delay(dotquarter);  
+    // A4
+    tone(output, A4);    
+      delay(eighth);   
+    // C4
+    tone(output, C4);    
+      delay(quarter); 
+    // C4 
+    tone(output, C4);  
+      delay(quarter); 
+    // C4
+    tone(output, C4);    
+      delay(quarter); 
+    // C4
+    tone(output, C4);    
+      delay(quarter); 
+    // A4
+    tone(output, A4);    
+      delay(quarter); 
+    // A4
+    tone(output, A4);    
+      delay(quarter); 
+    // Bb4
+    tone(output, Bb4);    
+      delay(quarter); 
+    // C4
+    tone(output, C4);    
+      delay(quarter); 
+    // C4
+    tone(output, C4);    
+      delay(eigth);
+    // C4
+    tone(output, C4);    
+      delay(eigth); 
+    // D4
+    tone(output, D4);    
+      delay(eigth); 
+    // C4
+    tone(output, C4);    
+      delay(dotquarter); 
 
   // Galilea add code below
 
