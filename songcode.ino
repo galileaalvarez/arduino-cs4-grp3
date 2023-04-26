@@ -20,7 +20,7 @@ int Eb4 = 311;
 int E4 = 330;
 int F4 = 349;
 int G4 = 392;
-int A4 = 440;
+int Z4 = 440;
 int Bb4 = 466;
 int B4 = 494;
 
@@ -62,14 +62,14 @@ for (int i = 0; i < 3; i++){
       // C4
   tone(output, C4);    
       delay(eighth); 
-      // A4
-  tone(output, A4);    
+      // Z4
+  tone(output, Z4);    
       delay(quarter); 
-      // A4
-  tone(output, A4);    
+      // Z4
+  tone(output, Z4);    
       delay(quarter); 
-      // A4
-  tone(output, A4);    
+      // Z4
+  tone(output, Z4);    
       delay(eighth);  
             // C4
   tone(output, C4);
@@ -88,8 +88,8 @@ for (int i = 0; i < 3; i++){
       delay(eighth);
     noTone(output);
       delay(100); 
-     // A4
-  tone(output, A4);    
+     // Z4
+  tone(output, Z4);    
       delay(eighth); 
      // C4
   tone(output, C4);
@@ -109,14 +109,14 @@ for (int i = 0; i < 3; i++){
       // C4
   tone(output, C4);    
       delay(eighth); 
-      // A4
-  tone(output, A4);    
+      // Z4
+  tone(output, Z4);    
       delay(quarter); 
-      // A4
-  tone(output, A4);    
+      // Z4
+  tone(output, Z4);    
       delay(quarter); 
-      // A4
-  tone(output, A4);    
+      // Z4
+  tone(output, Z4);    
       delay(eighth);  
             // C4
   tone(output, C4);
@@ -138,8 +138,8 @@ for (int i = 0; i < 3; i++){
           // D4
   tone(output, D4);    
       delay(eighth); 
-          // A4
-  tone(output, A4);    
+          // Z4
+  tone(output, Z4);    
       delay(eighth);
       // G4
   tone(output, G4);
@@ -153,11 +153,11 @@ for (int i = 0; i < 3; i++){
       // D4
   tone(output, D4);
       delay(quarter);
-      //A4
-  tone(output, A4);
+      //Z4
+  tone(output, Z4);
       delay(quarter);
-      // A4
-  tone(output, A4);
+      // Z4
+  tone(output, Z4);
       delay(quarter);  
       // C4
   tone(output, C4);
@@ -179,8 +179,8 @@ for (int i = 0; i < 3; i++){
       delay(half);
     noTone(output);
       delay(100);
-      // A4
-  tone(output, A4);
+      // Z4
+  tone(output, Z4);
       delay(eighth);
       // G4
   tone(output, G4);
@@ -194,11 +194,11 @@ for (int i = 0; i < 3; i++){
       // D4
   tone(output, D4);
       delay(quarter);
-      // A4
-  tone(output, A4);
+      // Z4
+  tone(output, Z4);
       delay(quarter);
-      // A4
-  tone(output, A4);
+      // Z4
+  tone(output, Z4);
       delay(quarter);
       // C4
   tone(output, C4);
@@ -241,11 +241,11 @@ for (int i = 0; i < 3; i++){
     // C4
     tone(output, C4);    
       delay(dotquarter); 
-    // A4 
-    tone(output, A4);  
+    // Z4 
+    tone(output, Z4);  
       delay(quarter); 
-    // A4
-    tone(output, A4);    
+    // Z4
+    tone(output, Z4);    
       delay(eighth); 
     // C4
     tone(output, C4);    
@@ -262,8 +262,8 @@ for (int i = 0; i < 3; i++){
     // C4
     tone(output, C4);    
       delay(dotquarter);  
-    // A4
-    tone(output, A4);    
+    // Z4
+    tone(output, Z4);    
       delay(eighth);   
     // C4
     tone(output, C4);    
@@ -277,11 +277,11 @@ for (int i = 0; i < 3; i++){
     // C4
     tone(output, C4);    
       delay(quarter); 
-    // A4
-    tone(output, A4);    
+    // Z4
+    tone(output, Z4);    
       delay(quarter); 
-    // A4
-    tone(output, A4);    
+    // Z4
+    tone(output, Z4);    
       delay(quarter); 
     // Bb4
     tone(output, Bb4);    
@@ -291,21 +291,21 @@ for (int i = 0; i < 3; i++){
       delay(quarter); 
     // C4
     tone(output, C4);    
-      delay(eigth);
+      delay(eighth);
     // C4
     tone(output, C4);    
-      delay(eigth); 
+      delay(eighth); 
     // D4
     tone(output, D4);    
-      delay(eigth); 
+      delay(eighth); 
     // C4
     tone(output, C4);    
       delay(dotquarter); 
     // D4
     tone(output, D4);    
       delay(eighth); 
-    // A4
-    tone(output, A4);    
+    // Z4
+    tone(output, Z4);    
       delay(eighth); 
     // G4
     tone(output, G4);    
@@ -316,11 +316,11 @@ for (int i = 0; i < 3; i++){
     // E4
     tone(output, E4);    
       delay(quarter);
-    // A4
-    tone(output, A4);    
+    // Z4
+    tone(output, Z4);    
       delay(quarter); 
-    // A4
-    tone(output, A4);    
+    // Z4
+    tone(output, Z4);    
       delay(quarter); 
     // C4
     tone(output, C4);    
@@ -340,8 +340,8 @@ for (int i = 0; i < 3; i++){
       // C4
     tone(output, C4);    
       delay(half);
-    // A4
-    tone(output, A4);    
+    // Z4
+    tone(output, Z4);    
       delay(eighth); 
     // G4
     tone(output, G4);    
@@ -355,11 +355,11 @@ for (int i = 0; i < 3; i++){
     // D4
     tone(output, D4);    
       delay(quarter); 
-    // A4
-    tone(output, A4);    
+    // Z4
+    tone(output, Z4);    
       delay(quarter); 
-    // A4
-    tone(output, A4);    
+    // Z4
+    tone(output, Z4);    
       delay(quarter);
   // Galilea add code below
     tone(output,C4);
@@ -1031,9 +1031,9 @@ tone(output,G4);
 delay(eighth);
 noTone(output);
   // Jesse add code below
-    tone(output, A4);
+    tone(output, Z4);
      delay(quarter);
-    tone(output, A4);
+    tone(output, Z4);
      delay(quarter);   
       // C4
     tone(output, C4);   
@@ -1049,10 +1049,10 @@ noTone(output);
       delay(half);   
     noTone(output);
       delay(100);
-    // A4
-    tone(output, A4);    
+    // Z4
+    tone(output, Z4);    
       delay(quarter);
-      tone(output, A4);    
+      tone(output, Z4);    
       delay(quarter); 
     // C4 
     tone(output, C4);  
@@ -1065,10 +1065,10 @@ noTone(output);
       delay(half); 
       noTone(output);
       delay(100);
-    // A4
-    tone(output, A4);    
+    // Z4
+    tone(output, Z4);    
       delay(quarter);
-      tone(output, A4);    
+      tone(output, Z4);    
       delay(quarter);
     // C4
     tone(output, C4);   
@@ -1088,8 +1088,8 @@ noTone(output);
     // G4
     tone(output, G4);
       delay(quarter);
-    // A4
-    tone(output, A4);
+    // Z4
+    tone(output, Z4);
     delay(quarter);
     // E4
      tone(output, E4);    
@@ -1102,13 +1102,13 @@ noTone(output);
     // C4 
     tone(output, C4);
     delay(quarter);
-    // A4 
-    tone(output, A4);
+    // Z4 
+    tone(output, Z4);
     delay(half)    
-    // A4 
-    tone(output, A4);
+    // Z4 
+    tone(output, Z4);
      delay(quarter);
-    tone(output, A4);
+    tone(output, Z4);
      delay(quarter); 
     // C4
     tone(output, C4);   
@@ -1122,12 +1122,12 @@ noTone(output);
     // C4
      tone(output, C4);    
      delay(half);
-     notone(output);
+     noTone(output);
      delay(100);  
-    // A4
-    tone(output, A4);    
+    // Z4
+    tone(output, Z4);    
       delay(quarter);
-      tone(output, A4);    
+      tone(output, Z4);    
       delay(quarter); 
     // C4 
     tone(output, C4);  
@@ -1140,10 +1140,10 @@ noTone(output);
       delay(half); 
       noTone(output);
       delay(100);
-    // A4
-    tone(output, A4);    
+    // Z4
+    tone(output, Z4);    
       delay(quarter);
-      tone(output, A4);    
+      tone(output, Z4);    
       delay(quarter);
     // C4
     tone(output, C4);   
@@ -1163,8 +1163,8 @@ noTone(output);
     // G4
     tone(output, G4);
       delay(quarter);
-    // A4
-    tone(output, A4);
+    // Z4
+    tone(output, Z4);
     delay(quarter);
     // E4
      tone(output, E4);    
@@ -1199,11 +1199,11 @@ noTone(output);
    delay(quarter);
   // E4
    tone(output, E4);
-   delay(qourter half);
+   delay(dotquarter);
    tone(output, E4);
-   delay(quarter half);   
+   delay(dotquarter);   
    tone(output, E4);
-   delay(quarter half);
+   delay(dotquarter);
   // F4
    tone(output, F4);
    delay(quarter);
@@ -1225,11 +1225,11 @@ noTone(output);
    delay(quarter);
   // E4
    tone(output, E4);
-   delay(quarter half);
+   delay(dotquarter);
    tone(output, E4);
-   delay(quarter half);   
+   delay(dotquarter);   
    tone(output, E4);
-   delay(quarter half);
+   delay(dotquarter);
   // F4
    tone(output, F4);
    delay(quarter);
@@ -1251,11 +1251,11 @@ noTone(output);
    delay(quarter);
   // E4
    tone(output, E4);
-   delay(quarter half);
+   delay(dotquarter);
    tone(output, E4);
-   delay(quarter half);   
+   delay(dotquarter);   
    tone(output, E4);
-   delay(quarter half);
+   delay(dotquarter);
   // F4
    tone(output, F4);
    delay(quarter);
@@ -1277,9 +1277,9 @@ noTone(output);
    delay(quarter);
   // E4 
    tone(output, E4);
-   delay(quarter half);
+   delay(dotquarter);
    tone(output, E4);
-   delay(quarter half);
+   delay(dotquarter);
   //E4
    tone(output, E4);
    delay(quarter);
